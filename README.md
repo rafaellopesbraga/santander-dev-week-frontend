@@ -1,6 +1,8 @@
 # Santander Dev Week
 
-Exercício realizado durante o evento Santander Dev Week, organizado pelo banco Santander em conjunto com a Digital Innovation One, onde foi desenvolvido uma SPA em Angular.
+Exercício realizado durante o evento Santander Dev Week, organizado pelo banco Santander em conjunto com a Digital Innovation One, onde foi desenvolvido uma SPA em Angular, que se comunica com uma API que retorna um conjunto de ações que serão exibidas em cards criados dinâmicamente.
+
+[Página no Github Pages](https://rafaellopesbraga.github.io/santander-dev-week-frontend/)
 
 ## Requisitos
 
