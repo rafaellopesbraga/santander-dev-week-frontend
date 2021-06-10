@@ -9,9 +9,9 @@ Exercício realizado durante o evento Santander Dev Week, organizado pelo banco 
 
 ## Versões utilizadas
 
-Angular CLI: 12.0.3
-Node: 14.17.0
-Package Manager: npm 6.14.13
+- Angular CLI: 12.0.3
+- Node: 14.17.0
+- Package Manager: npm 6.14.13
 
 ## Executando o projeto
 
