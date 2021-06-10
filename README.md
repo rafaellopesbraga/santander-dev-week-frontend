@@ -15,4 +15,4 @@ Exercício realizado durante o evento Santander Dev Week, organizado pelo banco 
 
 ## Executando o projeto
 
-Execute o comando 'npm start', o projeto abrir em uma nova aba em seu navegador padrão ou acesse http://localhost:4200/
+Execute o comando 'npm start' no diretório do projeto, para que o mesmo seja executado em uma nova aba em seu navegador padrão ou acesse 'http://localhost:4200/'
